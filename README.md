@@ -1,7 +1,7 @@
-Hello 👋 , Im @abigail-paull
-I am an aspiring frontend developer.With the purpose of creating user-friendly interfaces and exploring more in web
+Hello 👋 , I am @abigail-paull.
+-I am an aspiring frontend developer.With the purpose of creating user-friendly interfaces and exploring more in web
 development.
-- 🌱 I’m currently learning Reactjs and python
+- 🌱 I’m currently learning React js and python
 - 💞️ I’m looking to collaborate on interesting and more estensive projects
 - 📫 How to reach me:Twitter[@PaulAbigail]
 
